@@ -2,14 +2,10 @@
 
 
 (1) buff_1
-
 Basic example
 
 
-
-
 (2) buff_2
-
 tcpclient [-s server] [-p server port] [-c] [-v] [-h] filename
 
 
