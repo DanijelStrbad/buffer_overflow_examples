@@ -1,12 +1,12 @@
 # Buffer overflow examples
 
 
-# buff_1
+(1) buff_1
 Basic example
 
 
 
-# buff_2
+(2) buff_2
 
 tcpclient [-s server] [-p server port] [-c] [-v] [-h] filename
 
